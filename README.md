@@ -24,7 +24,7 @@ Enter at least two or more employee's details including their first name, last n
 
 ## Credits
 
-Javascript code refactored by Warren Shan
+Javascript code refactored located in assets/js/script.js by Warren Shan
 
 ## License
 
