@@ -20,7 +20,7 @@ The following image shows the web application's appearance and functionality:
 ![A webpage titled "Employee Payroll Tracker" features a dynamically updated list of employees depending on inputs provided, as well as console outputs for agggregate salary and a random congratulation note for one of the employees entered]![Employee Payroll Tracker Screenshot](https://github.com/shanwc1972/employee-payroll-tracker/assets/166612646/790b2b18-e4b9-49d4-ba19-2e2302b32e74)
 
 
-Enter at least two or more employee's details including their first name, last name and salary to get a sorted list of employees. Use the inspection functionality to see console outputs including a average salary computation and a congratulation note for a random employee. 
+Enter at least two or more employee's details including their first name, last name and salary to get a sorted list of employees. Use the inspection functionality to see console outputs including an average salary computation and a congratulation note for a random employee. 
 
 ## Credits
 
